@@ -1,0 +1,2 @@
+Displayname,Objectname,type service|host ,group true|false (optional)
+WAN,WAN,host,true

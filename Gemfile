@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'dashing'
+gem 'nagios_mklivestatus'
+gem 'logger'
+gem 'dbi'
+gem 'dbd'
+gem 'dbd-mysql'
+gem 'nokogiri'
+gem 'htmlentities'
+gem 'rubypython'
+gem 'paint'
+gem 'Dashingstate'
