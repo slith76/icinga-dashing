@@ -2,7 +2,7 @@
 
 Description
 ---
-**en**: Dashing-Project to display your important services and hosts from icinga.
+Dashing-Project to display your important services and hosts from icinga.
 Requirements
 ---
 - [Dashing](https://github.com/Shopify/dashing)
